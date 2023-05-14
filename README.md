@@ -1,4 +1,4 @@
-   <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/tablets.gif" width="72" height="72">The Emerald⩙Tablets for working with Leuviah
+   <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/tablets.gif" width="72" height="72">
 
 - 👋 Hi, I’m @Leuviah
 - 👀 I’m interested in ... mars
